@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bryan's Second Blog"
-date:   2023-07-15 13:22:49 -0400
+title: "Bryan's Second Blog"
+date: 2023-07-15 13:22:49 -0400
 categories: General
 ---
 # This is new to me
