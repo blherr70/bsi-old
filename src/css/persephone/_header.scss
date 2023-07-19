@@ -19,9 +19,8 @@
     width: 100px;
   }
   &:hover img + h1 {
-    transform: translateX(-20px);
     opacity: 0;
-    transform: none;
+    transform: translateX(-20px);
     transition: transform 0.3s, opacity 0.3s;
   }
 }
