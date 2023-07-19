@@ -12,15 +12,15 @@
   }
   img + h1 {
     margin: 0;
-    // transform: translateX(-20px);
-    // opacity: 0;
+    opacity: 1;
     position: absolute;
     left: calc(30px + 1rem);
     top: 0;
     width: 100px;
   }
   &:hover img + h1 {
-    opacity: 1;
+    transform: translateX(-20px);
+    opacity: 0;
     transform: none;
     transition: transform 0.3s, opacity 0.3s;
   }
